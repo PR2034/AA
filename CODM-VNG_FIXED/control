@@ -1,0 +1,9 @@
+Package: r6x9.mods
+Name: r6x9 cod
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.38
+Architecture: iphoneos-arm
+Description: Mod Menu Cod Mobile
+Maintainer: R6X9
+Author: Jairback
+Section: Tweaks
